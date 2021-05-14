@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Personal blog by Jixing</title>
+    <link>https://lab.abj.org.br</link>
+    <atom:link href="https://lab.abj.org.br/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Jixing Liu personal blog
+</description>
+    <image>
+      <title>Personal blog by Jixing</title>
+      <url>https://lab.abj.org.br/images/avatar.JPG</url>
+      <link>https://lab.abj.org.br</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>O STF, o controle concentrado e a pandemia</title>
+      <dc:creator>Rodrigo Filippi Dornelles</dc:creator>
+      <link>https://lab.abj.org.br/posts/2021-04-13-stf-controle-concentrado</link>
+      <description>Pequena análise das ações de controle concentrado de constitucionalidade ao STF entre 2000 e 2020.</description>
+      <guid>https://lab.abj.org.br/posts/2021-04-13-stf-controle-concentrado</guid>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://lab.abj.org.br/posts/2021-04-13-stf-controle-concentrado/grafico_perfil_ato_federal_questionado-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>

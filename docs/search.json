@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "author": [],
+      "contents": "\nsomethine introduction\n\n\n\n",
+      "last_modified": "2021-05-14T13:47:07+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Personal blog by Jixing",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-14T13:47:07+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

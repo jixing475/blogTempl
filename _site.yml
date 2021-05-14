@@ -1,0 +1,26 @@
+base_url: https://lab.abj.org.br
+name: "Jixing Liu"
+title: "Personal blog by Jixing"
+description: |
+  Jixing Liu personal blog
+output_dir: "docs"
+navbar:
+  logo: images/avatar.JPG
+  href: https://abj.org.br
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Sobre"
+      href: about.html
+    - icon: fa fa-github
+      href: https://gitee.com/jixing475
+output: 
+  distill::distill_article:
+    css: styles.css
+google_analytics: "UA-182605574-1"
+favicon: images/avatar.JPG
+collections:
+  posts:
+    creative_commons: CC BY
+    disqus: abjur
+    share: [twitter, linkedin, facebook]
